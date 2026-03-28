@@ -1,1 +1,1 @@
-UBB - Informatică
+#UBB - Informatică
